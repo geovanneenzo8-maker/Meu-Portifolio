@@ -12,7 +12,7 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e sempre em busca 
 ### 🛠️ Tecnologias e Ferramentas que estou aprendendo
 
 
-- **Linguagens:** JAVA
+- **Linguagens:** JAVA, SQL
 - **Ferramentas:** GitHub
 
 ### 📫 Como me encontrar
