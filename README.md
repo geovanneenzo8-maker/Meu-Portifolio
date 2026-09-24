@@ -20,10 +20,10 @@
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **Faculdade SENAI FATESG**.
 - 📚 Disciplinas e tópicos em foco: **Engenharia de Software**, **Algoritmos e Estruturas de Programação**.
 - 🌐 Idiomas em desenvolvimento:
-  - 🇺🇸 **Inglês** em andamento pelo **Centro de Línguas da UFG**.
+  - 🇺🇸 **Inglês** em andamento.
   - 🇰🇷 **Coreano** (estudos iniciais e interesse cultural).
 - 🎯 Em busca de oportunidades de **estágio e projetos práticos em TI e Desenvolvimento de Software**.
-- 🎮 Fora do código: entusiasta de jogos de PC, hardware e esportes (goleiro nas horas vagas ⚽🧤).
+- 🎮 Fora do código: entusiasta de jogos de PC.
 
 ---
 
